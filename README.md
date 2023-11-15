@@ -21,3 +21,9 @@ Note - All APIs are called twice in development mode this is react thing it chec
 -planning for main container and secondary container
 -fetch data for trailer video
 -update store with trailor video data
+-embedded the Youtube video and make it autoplay and mute
+-Build secondary component(movie list,movie card)
+-TMDB Image CDN URL
+-GPT search
+-(Feature) Multi-language in our app
+-Integrate GPT APIs()
