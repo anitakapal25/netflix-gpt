@@ -27,3 +27,4 @@ Note - All APIs are called twice in development mode this is react thing it chec
 -GPT search
 -(Feature) Multi-language in our app
 -Integrate GPT APIs()
+npm install --save openai
