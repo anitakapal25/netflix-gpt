@@ -28,3 +28,13 @@ Note - All APIs are called twice in development mode this is react thing it chec
 -(Feature) Multi-language in our app
 -Integrate GPT APIs()
 npm install --save openai
+
+-get Open AI api key
+-gpt search API call
+-fetched gptMoviesSuggestions from TMDB
+-created gptSlice added data
+-reused movie list component to make movie suggestions container
+-memoization
+-added .env file
+
+- added env to

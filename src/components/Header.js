@@ -71,7 +71,7 @@ const Header = () => {
       />
     
       {user && (
-      <div className='flex p-2'>
+      <div className='flex p-2 justify-between'>
         {showGptSearch && (<select className='p-2 m-2 bg-gray-900 text-white'
           onChange={handleLanguageChange}
         >
@@ -85,7 +85,7 @@ const Header = () => {
         >
           {showGptSearch ? "Homepage" : "GPT Search"}</button>
         <img
-        className='w-12 h-12'
+        className='hidden md:inline-block w-12 h-12'
           alt='usericon'
           src={user?.photoURL}
         />
